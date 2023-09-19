@@ -23,6 +23,8 @@ module.exports = {
     //   'white': '#f3e8ff'
     // }
   },
-  plugins: [],
+  plugins: [ 
+    require('@tailwindcss/forms'),
+],
 }
 

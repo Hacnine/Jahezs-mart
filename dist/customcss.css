@@ -1,0 +1,13 @@
+.custom-anchor-bg {
+    background-image: url('/images/button-background.svg');
+    /* You can add other background properties like size, position, etc. here */
+  }
+
+  .custom-anchor-bg:hover {
+    background-image: url('/images/button-background-second.svg');
+    /* You can add other background properties like size, position, etc. here */
+  }
+
+  .custom-bg{
+    background-image: url('/images/banner-bg.jpg');
+  }
